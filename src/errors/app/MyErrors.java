@@ -8,5 +8,6 @@ public class MyErrors {
         System.out.println("Hello!");
         Person p = new Person();
         p.hashCode();
+        p.toString();
     }
 }

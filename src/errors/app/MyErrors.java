@@ -7,5 +7,6 @@ public class MyErrors {
         System.out.println("Hello!");
         System.out.println("Hello!");
         Person p = new Person();
+        p.hashCode();
     }
 }
